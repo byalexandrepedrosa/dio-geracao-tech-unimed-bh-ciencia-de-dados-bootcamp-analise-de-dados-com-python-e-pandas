@@ -3,11 +3,6 @@
 <br />
 <br />
 
-Esse Projeto consiste em você assistir os vídeos das aulas e ir realizando os mesmos passos do vídeo. Depois basta enviar os arquivos para o GitHub e entregar o Pojeto.
-
-<br />
-<br />
-
 **Sugestão:** evite copiar e colar, a ideia dos desafios e perguntas da certificação é que você os enfrente e dado a dificuldade nesse percurso acabe fixando o conteúdo. Lembre-se que nas entrevistas de emprego ao iniciar um teste prático já terá a dificuldade do nervosismo para responder e se não tentou realizar o conteúdo do curso de forma a fixar esse, dificilmente conseguirá passar, então se a dificuldade chegou até esse ponto e precisa apenas de uma inspiração para prosseguir, você pode ver como eu conclui as etapas e se quiser, sugerir como posso melhorar.
 
 <br />
