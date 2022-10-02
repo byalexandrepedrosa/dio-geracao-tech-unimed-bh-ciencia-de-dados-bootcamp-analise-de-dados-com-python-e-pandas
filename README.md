@@ -23,7 +23,7 @@
 			<td align="center">01</td>
 			<td>Estruturas de dados (vídeo 04)</td>
 			<td>
-				<a href="https://github.com/byalexandrepedrosa/DIO/blob/solucoes/Bootcamps/Geracao%20Tech%20Unimed-BH%20-%20Ciencia%20de%20Dados/02%20-%20Python%20para%20Cientistas%20de%20Dados/07%20-%20%5BProjeto%5D%20Analise%20de%20dados%20com%20Python%20e%20Pandas/Estrutura_de_dados.ipynb">
+				<a href="https://github.com/byalexandrepedrosa/dio-geracao-tech-unimed-bh-ciencia-de-dados-bootcamp-analise-de-dados-com-python-e-pandas/blob/main/Estrutura_de_dados.ipynb">
 					Código
 				</a>
 			</td>
@@ -33,7 +33,7 @@
 			<td align="center">02</td>
 			<td>Introdução à biblioteca Pandas (vídeo 05)</td>
 			<td>
-				<a href="https://github.com/byalexandrepedrosa/DIO/blob/solucoes/Bootcamps/Geracao%20Tech%20Unimed-BH%20-%20Ciencia%20de%20Dados/02%20-%20Python%20para%20Cientistas%20de%20Dados/07%20-%20%5BProjeto%5D%20Analise%20de%20dados%20com%20Python%20e%20Pandas/Aula1_Pandas.ipynb">
+				<a href="https://github.com/byalexandrepedrosa/dio-geracao-tech-unimed-bh-ciencia-de-dados-bootcamp-analise-de-dados-com-python-e-pandas/blob/main/Aula1_Pandas.ipynb">
 					Código
 				</a>
 			</td>
@@ -43,7 +43,7 @@
 			<td align="center">03</td>
 			<td>Trabalhando com Planilhas do Excel (vídeos 06 ~ 08)</td>
 			<td>
-				<a href="https://github.com/byalexandrepedrosa/DIO/blob/solucoes/Bootcamps/Geracao%20Tech%20Unimed-BH%20-%20Ciencia%20de%20Dados/02%20-%20Python%20para%20Cientistas%20de%20Dados/07%20-%20%5BProjeto%5D%20Analise%20de%20dados%20com%20Python%20e%20Pandas/Pandas_Aula7.ipynb">
+				<a href="https://github.com/byalexandrepedrosa/dio-geracao-tech-unimed-bh-ciencia-de-dados-bootcamp-analise-de-dados-com-python-e-pandas/blob/main/Pandas_Aula7.ipynb">
 					Código
 				</a>
 			</td>
@@ -53,7 +53,7 @@
 			<td align="center">04</td>
 			<td>Análise Exploratória (vídeo 09)</td>
 			<td>
-				<a href="https://github.com/byalexandrepedrosa/DIO/blob/solucoes/Bootcamps/Geracao%20Tech%20Unimed-BH%20-%20Ciencia%20de%20Dados/02%20-%20Python%20para%20Cientistas%20de%20Dados/07%20-%20%5BProjeto%5D%20Analise%20de%20dados%20com%20Python%20e%20Pandas/Aula8_Analise_Exploratoria.ipynb">
+				<a href="https://github.com/byalexandrepedrosa/dio-geracao-tech-unimed-bh-ciencia-de-dados-bootcamp-analise-de-dados-com-python-e-pandas/blob/main/Aula8_Analise_Exploratoria.ipynb">
 					Código
 				</a>
 			</td>
